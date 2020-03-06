@@ -1,0 +1,16 @@
+PanoramaStudioViewerParams = {
+"panoramaStudioViewer":
+{
+    "gallery": [
+        {
+            "href": "New Panorama4.json",
+            "location": {
+                "lat": 48.482011,
+                "lon": 27.702233
+            },
+            "thumbnail": "New Panorama4_tiles/New Panorama4_thumb.jpg"
+        }
+    ]
+}
+
+}
